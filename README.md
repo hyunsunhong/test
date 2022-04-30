@@ -1,1 +1,1 @@
-The page is created from the README.md file.
+This is a readme file.
